@@ -1,0 +1,2 @@
+# OpenMMLabCampHomework
+按照OpenMMLab训战营的要求，把参与训战的作业在这里归档，作为一个总结回顾供感兴趣的朋友们参考。
